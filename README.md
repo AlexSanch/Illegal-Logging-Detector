@@ -467,6 +467,6 @@ https://illegal-logging-detector.s3.amazonaws.com/index.html
 # EPIC DEMO:
 
 Video: Click on the image
-[![demo](./Images/logo.png)](pending)
+[![demo](./Images/logo.png)](https://youtu.be/eDP3U5mweT8)
 
 Sorry github does not allow embed videos.
