@@ -2,7 +2,7 @@
 
 <img src="./Images/logo.png">
 
-# Table of Contents:
+# Table of Contents: 
  
 - [Illegal Logging Detector](#illegal-logging-detector)
 - [Table of Contents:](#table-of-contents)
