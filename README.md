@@ -1,4 +1,4 @@
-# Illegal Logging Detector
+# Illegal Logging Detector 
 
 <img src="./Images/logo.png">
 
