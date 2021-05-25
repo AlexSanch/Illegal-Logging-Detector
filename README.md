@@ -407,7 +407,7 @@ https://illegal-logging-detector.s3.amazonaws.com/index.html
 
 ## AWS Cognito:
 
-For security, to safely use and consume AWS services, ** identity pool ** credentials were implemented with the Cognito service.
+For security, to safely use and consume AWS services, **identity pool** credentials were implemented with the Cognito service.
 
 The access keys for AWSIoT and Cognito must be placed in the following file.
 
