@@ -17,7 +17,7 @@
   - [Backend Diagram:](#backend-diagram)
   - [Hardware Diagram:](#hardware-diagram)
 - [Capturing Data:](#capturing-data)
-  - [Setup Quickfeather:](#setup-quickfeather)
+  - [Setting up the Quickfeather:](#setting-up-the-quickfeather)
   - [Capturing Data:](#capturing-data)
   - [Labeling Data:](#labeling-data)
 - [SensiML:](#sensiml)
@@ -147,7 +147,7 @@ Displaying the information of the events detected in a simple webapp, together w
 
 In this section I will explain how to measure the data from the QuickFeather to the Data capture lab.
 
-## Setup Quickfeather:
+## Setting up the Quickfeather:
 
 First we have to configure the QuickFeather in data capture mode, in the Capture Project folder I leave the complete project with all the changes made to capture data.
 
