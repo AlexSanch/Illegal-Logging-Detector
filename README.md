@@ -16,7 +16,7 @@
 - [Connection Diagram:](#connection-diagram)
   - [Backend Diagram:](#backend-diagram)
   - [Hardware Diagram:](#hardware-diagram)
-- [Capturing Data:](#capture-data)
+- [Capturing Data:](#capturing-data)
   - [Setup Quickfeather:](#setup-quickfeather)
   - [Capturing Data:](#capturing-data)
   - [Labeling Data:](#labeling-data)
@@ -143,7 +143,7 @@ Displaying the information of the events detected in a simple webapp, together w
 
 <img src="./Images/hardware.png">
 
-# Capture Data:
+# Capturing Data:
 
 In this section I will explain how to measure the data from the QuickFeather to the Data capture lab.
 
