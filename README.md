@@ -16,7 +16,7 @@
 - [Connection Diagram:](#connection-diagram)
   - [Backend Diagram:](#backend-diagram)
   - [Hardware Diagram:](#hardware-diagram)
-- [Capture Data:](#capture-data)
+- [Capturing Data:](#capture-data)
   - [Setup Quickfeather:](#setup-quickfeather)
   - [Capturing Data:](#capturing-data)
   - [Labeling Data:](#labeling-data)
